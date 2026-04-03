@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  // Using public localhost.run tunnel so Mobile Network / External Wi-Fi connects perfectly
-  static const String baseUrl = 'https://0df28a6bb2bf11.lhr.life/api';
+  // Using Production Render Cloud Backend
+  static const String baseUrl = 'https://bd-law-assistant.onrender.com/api';
 
   static Future<Map<String, dynamic>> askLaw(String question, bool inBengali) async {
     try {

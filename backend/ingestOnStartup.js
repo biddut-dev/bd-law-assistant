@@ -11,7 +11,7 @@ async function ingestData() {
 
   console.log('Starting ingestion from local JSON files...');
 
-  const penalCodePath = path.join(__dirname, '../laws/penal-code.json');
+  const penalCodePath = path.join(__dirname, 'laws/penal-code.json');
   if (fs.existsSync(penalCodePath)) {
     const rawData = fs.readFileSync(penalCodePath, 'utf8');
     const records = JSON.parse(rawData);
@@ -30,7 +30,7 @@ async function ingestData() {
     console.log(`Ingested ${laws.length} records from Penal Code.`);
   }
 
-  const legalActsPath = path.join(__dirname, '../laws/Contextualized_Bangladesh_Legal_Acts.json');
+  const legalActsPath = path.join(__dirname, 'laws/Contextualized_Bangladesh_Legal_Acts.json');
   if (fs.existsSync(legalActsPath)) {
     const rawData = fs.readFileSync(legalActsPath, 'utf8');
     const dataset = JSON.parse(rawData);
