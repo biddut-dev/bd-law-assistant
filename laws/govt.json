@@ -1,0 +1,522 @@
+[
+  {
+    "year_from": 1799,
+    "year_to": 1805,
+    "govt_system": "Company Rule (Dual System until 1772)",
+    "position_head_govt": "Governor-General of Bengal",
+    "head_govt_name": "Marquess of Wellesley (Richard Wellesley)",
+    "head_govt_designation": "Governor-General of Fort William in Bengal",
+    "how_got_power": "East India Company appointment",
+    "number_of_years": 6
+  },
+  {
+    "year_from": 1805,
+    "year_to": 1807,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of Bengal",
+    "head_govt_name": "Marquess Cornwallis / Sir George Barlow (acting)",
+    "head_govt_designation": "Governor-General of Fort William in Bengal",
+    "how_got_power": "Company appointment",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1807,
+    "year_to": 1813,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of Bengal",
+    "head_govt_name": "Lord Minto (Gilbert Elliot-Murray-Kynynmound)",
+    "head_govt_designation": "Governor-General of Fort William in Bengal",
+    "how_got_power": "Company appointment",
+    "number_of_years": 6
+  },
+  {
+    "year_from": 1813,
+    "year_to": 1823,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Marquess of Hastings (Francis Rawdon-Hastings)",
+    "head_govt_designation": "Governor-General of India (ex-officio Governor of Bengal)",
+    "how_got_power": "Company appointment",
+    "number_of_years": 10
+  },
+  {
+    "year_from": 1823,
+    "year_to": 1828,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord Amherst (William Amherst)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1828,
+    "year_to": 1835,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord William Bentinck",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 7
+  },
+  {
+    "year_from": 1835,
+    "year_to": 1842,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord Auckland (George Eden)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 7
+  },
+  {
+    "year_from": 1842,
+    "year_to": 1844,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Lord Ellenborough (Edward Law)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1844,
+    "year_to": 1848,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Sir Henry Hardinge",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1848,
+    "year_to": 1856,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl of Dalhousie (James Broun-Ramsay)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 8
+  },
+  {
+    "year_from": 1856,
+    "year_to": 1858,
+    "govt_system": "Company Rule",
+    "position_head_govt": "Governor-General of India",
+    "head_govt_name": "Earl Canning (Charles Canning)",
+    "head_govt_designation": "Governor-General of India",
+    "how_got_power": "Company appointment",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1858,
+    "year_to": 1862,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "John Peter Grant",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1862,
+    "year_to": 1866,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Cecil Beadon",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1867,
+    "year_to": 1871,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir William Grey",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1871,
+    "year_to": 1874,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir George Campbell",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 3
+  },
+  {
+    "year_from": 1874,
+    "year_to": 1877,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Richard Temple",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 3
+  },
+  {
+    "year_from": 1877,
+    "year_to": 1882,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Ashley Eden",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1882,
+    "year_to": 1887,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Lieutenant Governor of Bengal",
+    "head_govt_name": "Sir Augustus Rivers Thompson",
+    "head_govt_designation": "Lieutenant Governor of Bengal Presidency",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1912,
+    "year_to": 1917,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Carmichael (Thomas Gibson-Carmichael)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1917,
+    "year_to": 1922,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Ronaldshay (Lawrence Dundas)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1922,
+    "year_to": 1927,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Earl of Lytton (Victor Bulwer-Lytton)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1927,
+    "year_to": 1932,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir Francis Stanley Jackson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1932,
+    "year_to": 1937,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Anderson",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1937,
+    "year_to": 1939,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Brabourne (Michael Knatchbull)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1939,
+    "year_to": 1943,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir John Arthur Herbert",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1944,
+    "year_to": 1946,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Lord Casey (Richard Casey)",
+    "head_govt_designation": "Governor of Bengal Province",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1946,
+    "year_to": 1947,
+    "govt_system": "British Colonial Rule",
+    "position_head_govt": "Governor of Bengal",
+    "head_govt_name": "Sir Frederick John Burrows",
+    "head_govt_designation": "Governor of Bengal Province (last)",
+    "how_got_power": "British Crown appointment",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1947,
+    "year_to": 1948,
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Muhammad Ali Jinnah",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment as founder",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1948,
+    "year_to": 1951,
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Khawaja Nazimuddin",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional succession",
+    "number_of_years": 3
+  },
+  {
+    "year_from": 1951,
+    "year_to": 1955,
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Ghulam Muhammad",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1955,
+    "year_to": 1956,
+    "govt_system": "Dominion of Pakistan",
+    "position_head_govt": "Governor-General of Pakistan",
+    "head_govt_name": "Iskander Mirza",
+    "head_govt_designation": "Governor-General of Pakistan",
+    "how_got_power": "Constitutional appointment",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1956,
+    "year_to": 1958,
+    "govt_system": "Republic of Pakistan",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "Iskander Ali Mirza",
+    "head_govt_designation": "President of Islamic Republic of Pakistan",
+    "how_got_power": "Constitutional election/transition",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1958,
+    "year_to": 1969,
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Ayub Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military coup",
+    "number_of_years": 11
+  },
+  {
+    "year_from": 1969,
+    "year_to": 1971,
+    "govt_system": "Military Rule",
+    "position_head_govt": "President of Pakistan",
+    "head_govt_name": "General Yahya Khan",
+    "head_govt_designation": "President of Pakistan (Military regime)",
+    "how_got_power": "Military succession/coup",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1971,
+    "year_to": 1972,
+    "govt_system": "Provisional Government (Mujibnagar Government)",
+    "position_head_govt": "President",
+    "head_govt_name": "Sheikh Mujibur Rahman (President in absentia), Syed Nazrul Islam (Acting President)",
+    "head_govt_designation": "President of People's Republic of Bangladesh",
+    "how_got_power": "Declaration of independence/Liberation War",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1972,
+    "year_to": 1973,
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Post-independence constitutional government",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1973,
+    "year_to": 1975,
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (1973)",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1975,
+    "year_to": 1975,
+    "govt_system": "One-party Presidential System (BAKSAL)",
+    "position_head_govt": "President",
+    "head_govt_name": "Sheikh Mujibur Rahman",
+    "head_govt_designation": "President of Bangladesh (BAKSAL system)",
+    "how_got_power": "Constitutional amendment to presidential system",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1975,
+    "year_to": 1975,
+    "govt_system": "Military Coup/Transitional",
+    "position_head_govt": "President",
+    "head_govt_name": "Khondaker Mostaq Ahmad",
+    "head_govt_designation": "President (Post-coup)",
+    "how_got_power": "Military coup/assassination of Sheikh Mujib",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1975,
+    "year_to": 1977,
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Abu Sadat Mohammad Sayem",
+    "head_govt_designation": "President (Military-backed)",
+    "how_got_power": "Military coup/counter-coup",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 1977,
+    "year_to": 1981,
+    "govt_system": "Military Rule transitioning to Democracy",
+    "position_head_govt": "President",
+    "head_govt_name": "Ziaur Rahman",
+    "head_govt_designation": "President of Bangladesh",
+    "how_got_power": "Military takeover, later legitimized through referendum and election",
+    "number_of_years": 4
+  },
+  {
+    "year_from": 1981,
+    "year_to": 1982,
+    "govt_system": "Democracy",
+    "position_head_govt": "President",
+    "head_govt_name": "Abdus Sattar",
+    "head_govt_designation": "President of Bangladesh",
+    "how_got_power": "Constitutional succession after Zia's assassination, elected",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1982,
+    "year_to": 1990,
+    "govt_system": "Military Rule",
+    "position_head_govt": "President",
+    "head_govt_name": "Lt. Gen. Hussain Muhammad Ershad",
+    "head_govt_designation": "President of Bangladesh (Military ruler)",
+    "how_got_power": "Military coup",
+    "number_of_years": 8
+  },
+  {
+    "year_from": 1990,
+    "year_to": 1991,
+    "govt_system": "Caretaker Government",
+    "position_head_govt": "Acting President",
+    "head_govt_name": "Shahabuddin Ahmed",
+    "head_govt_designation": "Acting President (Caretaker)",
+    "how_got_power": "Mass uprising against Ershad",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1991,
+    "year_to": 1996,
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Khaleda Zia",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 1996,
+    "year_to": 1996,
+    "govt_system": "Caretaker Government",
+    "position_head_govt": "Acting Prime Minister",
+    "head_govt_name": "Muhammad Habibur Rahman",
+    "head_govt_designation": "Chief Advisor (Caretaker Government)",
+    "how_got_power": "Constitutional caretaker arrangement",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 1996,
+    "year_to": 2001,
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 2001,
+    "year_to": 2001,
+    "govt_system": "Caretaker Government",
+    "position_head_govt": "Chief Advisor",
+    "head_govt_name": "Latifur Rahman",
+    "head_govt_designation": "Chief Advisor (Caretaker Government)",
+    "how_got_power": "Constitutional caretaker arrangement",
+    "number_of_years": 1
+  },
+  {
+    "year_from": 2001,
+    "year_to": 2006,
+    "govt_system": "Parliamentary Democracy",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Khaleda Zia",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election",
+    "number_of_years": 5
+  },
+  {
+    "year_from": 2007,
+    "year_to": 2009,
+    "govt_system": "Military-backed Caretaker Government",
+    "position_head_govt": "Chief Advisor",
+    "head_govt_name": "Fakhruddin Ahmed",
+    "head_govt_designation": "Chief Advisor (Military-backed Caretaker)",
+    "how_got_power": "Military intervention/state of emergency",
+    "number_of_years": 2
+  },
+  {
+    "year_from": 2009,
+    "year_to": 2024,
+    "govt_system": "Parliamentary Democracy (increasingly authoritarian)",
+    "position_head_govt": "Prime Minister",
+    "head_govt_name": "Sheikh Hasina",
+    "head_govt_designation": "Prime Minister of Bangladesh",
+    "how_got_power": "Democratic election (2009), subsequent controversial elections (2014, 2018, 2024)",
+    "number_of_years": 15
+  },
+  {
+    "year_from": 2024,
+    "year_to": 2025,
+    "govt_system": "Interim Government",
+    "position_head_govt": "Chief Adviser",
+    "head_govt_name": "Prof. Muhammad Yunus",
+    "head_govt_designation": "Chief Adviser of Interim Government",
+    "how_got_power": "Student uprising/mass revolution against Sheikh Hasina",
+    "number_of_years": 1
+  }
+]

@@ -1,0 +1,16 @@
+# Node
+node_modules/
+backend/.env
+backend/node_modules/
+npm-debug.log
+
+# Flutter/Dart/Android/iOS/Web
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# OS Logs
+.DS_Store
+Thumbs.db
